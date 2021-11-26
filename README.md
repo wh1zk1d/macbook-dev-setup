@@ -82,6 +82,8 @@ Bear (Note Taking): Download from the [App Store](https://apps.apple.com/de/app/
 
 Zoom (Video Calls): https://zoom.us/download
 
+Local (Local WordPress Development): https://localwp.com
+
 ## Node.js
 
 Install nvm to use multiple Node.js versions and be able to switch between them project based.
