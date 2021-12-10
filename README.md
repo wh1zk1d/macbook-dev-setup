@@ -84,6 +84,10 @@ Zoom (Video Calls): https://zoom.us/download
 
 Local (Local WordPress Development): https://localwp.com
 
+Local PHP Development: https://oliverbrux.de/blog/laravel-valet-die-schnelle-mamp-alternative-fuer-den-mac#:~:text=Valet%20ist%20eine%20minimalistische%20Entwicklungsumgebung,Projektes%20um%20Valet%20zu%20nutzen
+
+GitHub Desktop: https://docs.github.com/en/desktop/installing-and-configuring-github-desktop/installing-and-authenticating-to-github-desktop/installing-github-desktop
+
 ## Node.js
 
 Install nvm to use multiple Node.js versions and be able to switch between them project based.
